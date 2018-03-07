@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!--
+/** Tutorial module xml
+ * @category  Vipul
+ * @package   Vipul_Tutorial
+ * @author    Vipul
+ * @copyright Copyright (c) 2010-2017 Vipul Software Private Limited (https://perficient.com)
+ * @license   GPL
+ */
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="Vipul_Tutorial" setup_version="2.0.0">
+    </module>
+</config>
